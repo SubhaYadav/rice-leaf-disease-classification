@@ -1,0 +1,7 @@
+Class,Clean_Count,Train_Count,Validation_Support,Test_Support,Test_Precision,Test_Recall,Test_F1
+Blast,1323,1058,133,132,0.4361,0.4394,0.4377
+Brown Spot,2176,1741,217,218,0.5679,0.422,0.4842
+Healthy,1573,1258,157,158,0.6289,0.7722,0.6932
+Leaf Smut,721,577,72,72,0.1875,0.0833,0.1154
+Rice Tungro,2238,1790,224,224,0.668,0.7634,0.7125
+Sheath Blight,1691,1353,169,169,0.6939,0.8047,0.7452

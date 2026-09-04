@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Leakage-Resistant Rice Leaf Disease Classification Under Class Imbalance"
+type: software
+authors:
+  - family-names: Yadav
+    given-names: "Subha Saubhagya Singh"
+    affiliation: "Butwal Kalika Campus, Tribhuvan University, Nepal"
+message: "If you use this repository, please cite the associated research manuscript."
+version: "1.0.0"
+date-released: 2026-09-03

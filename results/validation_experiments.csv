@@ -1,0 +1,4 @@
+Strategy,Validation Accuracy,Validation Macro-F1,Validation Weighted-F1
+Unweighted baseline,0.6296,0.5538,0.6101
+Full inverse-frequency weighting,0.6049,0.5687,0.6041
+Moderated weighting (alpha=0.5),0.6461,0.5841,0.6322

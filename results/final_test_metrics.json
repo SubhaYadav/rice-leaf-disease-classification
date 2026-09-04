@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.6012,
+  "macro_precision": 0.5304,
+  "macro_recall": 0.5475,
+  "macro_f1": 0.5314,
+  "weighted_f1": 0.5824,
+  "bootstrap_95_ci": {
+    "accuracy": [
+      0.5714,
+      0.631
+    ],
+    "macro_f1": [
+      0.5017,
+      0.5605
+    ],
+    "weighted_f1": [
+      0.5502,
+      0.6146
+    ]
+  }
+}

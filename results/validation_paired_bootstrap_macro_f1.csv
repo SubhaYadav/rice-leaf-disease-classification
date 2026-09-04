@@ -1,0 +1,4 @@
+Comparison,Observed Delta Macro-F1,95% CI Low,95% CI High,Bootstrap proportion <= 0
+Moderated vs Baseline,0.0303,0.0022,0.058,0.017
+Moderated vs Full,0.0154,-0.0115,0.0416,0.1328
+Full vs Baseline,0.0149,-0.0153,0.0466,0.1606
