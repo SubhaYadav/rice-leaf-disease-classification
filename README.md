@@ -14,7 +14,7 @@ RiceLeafDiseaseBD, Version 2 (Mendeley Data), DOI: **10.17632/86s4jzj2m4.2**.
 The dataset is not redistributed in this repository. Obtain the exact Version 2 release from the dataset provider and follow its license/terms.
 
 ## Repository contents
-- `paper/` — research manuscript PDF
+- `paper/` — Rice_Leaf_Disease_Classification.pdf
 - `figures/` — final figures extracted from the manuscript
 - `results/` — final reported metrics and analysis tables
 - `code/` — documented experiment/reproduction workflow
